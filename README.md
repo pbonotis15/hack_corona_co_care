@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # CoCare App
 
 ![CoCare Splash](assets/corona2.PNG)
@@ -81,4 +83,6 @@ We welcome contributions! Please follow these steps:
 ## Contact
 
 For any queries or suggestions, please contact:
-- **Project Maintainer**: [Panos Bonotis](mailto:pbonotis@certh.gr)
+- **Project Maintainer**: Panos Bonotis - [LinkedIn](https://www.linkedin.com/in/panosbonotis/) - pbonotis@certh.gr
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
