@@ -1,7 +1,7 @@
 # CoCare App
 
-![CoCare Logo](assets/logo.png)
 ![CoCare Splash](assets/corona2.PNG)
+![CoCare Logo](assets/logococare.png)
 
 ## Overview
 
