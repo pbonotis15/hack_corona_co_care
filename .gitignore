@@ -8,6 +8,7 @@
 .buildlog/
 .history
 .svn/
+.gitignore
 
 # IntelliJ related
 *.iml
@@ -35,3 +36,45 @@ lib/generated_plugin_registrant.dart
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+# Flutter/Dart/Pub related
+
+build/
+
+.metadata
+
+# Android related
+android/.gradle/
+android/app/build/
+android/.idea/
+android/local.properties
+android/app/*.iml
+
+# iOS related
+ios/Flutter/.generated/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Flutter/App.xcconfig
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ
+
+
+
+
+
+
+# Temp files
+*.tmp
+
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
