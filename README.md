@@ -9,7 +9,9 @@
 
 ## Overview
 
-CoCare is a Flutter-based mobile application designed to support vulnerable groups, such as elderly individuals and people with chronic conditions, by connecting them with volunteers for assistance during challenging times like the COVID-19 pandemic.
+CoCare is a Flutter-based mobile application developed to support vulnerable groups, including elderly individuals and those with chronic conditions, by connecting them with volunteers for assistance during challenging times, such as the COVID-19 pandemic.
+
+CoCare was part of a larger project created during a hackathon, designed with the potential to integrate with a back-end server for more comprehensive functionality, including data management and the ability to generate statistical insights. However, what you see here is the prototype developed during the hackathon. It is solely a front-end application, showcasing the envisioned user interface and basic interaction flow. Please note that this prototype does not have full functionality and is not connected to any back-end services.
 
 ## Features
 
@@ -54,11 +56,8 @@ CoCare is a Flutter-based mobile application designed to support vulnerable grou
 
 ```plaintext
 CoCare/
-├── android/              # Android native code
-├── ios/                  # iOS native code
 ├── lib/                  # Dart code (main application)
 ├── assets/               # Images, icons, and other assets
-├── test/                 # Unit and widget tests
 ├── pubspec.yaml          # Project configuration
 └── README.md             # Project documentation
 ```
@@ -83,6 +82,6 @@ We welcome contributions! Please follow these steps:
 ## Contact
 
 For any queries or suggestions, please contact:
-- **Project Maintainer**: Panos Bonotis - [LinkedIn](https://www.linkedin.com/in/panosbonotis/) - pbonotis@certh.gr
+- **Designed and Developed by**: Panos Bonotis - [LinkedIn](https://www.linkedin.com/in/panosbonotis/) - pbonotis@certh.gr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
